@@ -1,0 +1,20 @@
+.page-background-color{
+    text-decoration: darkblue;
+    background-color:darkgray;
+    border-color: wheat;
+    color: thistle;
+}
+.page-background{
+    background-color:wheat;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.headding{
+    text-align: center;
+    color: blue;
+}
+.headding-main{
+    text-align: center;
+    color:brown;
+}
